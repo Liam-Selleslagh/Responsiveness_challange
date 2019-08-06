@@ -1,6 +1,6 @@
 @media only screen and (max-width: 300px) {
     #Small {
-        display: list-item;
+        display: contents;
     }
     #Medium {
          display: none;
