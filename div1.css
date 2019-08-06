@@ -1,0 +1,33 @@
+@media only screen and (max-width: 300px) {
+    #Small {
+        display: list-item;
+    }
+    #Medium {
+         display: none;
+     }
+    #Large {
+        display: none;
+    }
+}
+@media only screen and (min-width: 302px) {
+    #Small {
+        display: none;
+    }
+    #Medium {
+        display: list-item;
+    }
+    #Large {
+        display: none;
+    }
+}
+@media only screen and (min-width: 768px) {
+    #Small {
+        display: none;
+    }
+    #Medium {
+        display: none;
+    }
+    #Large {
+        display: list-item;
+    }
+}
