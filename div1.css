@@ -8,6 +8,7 @@
     #Large {
         display: none;
     }
+
 }
 @media only screen and (min-width: 302px) {
     #Small {
