@@ -1,0 +1,37 @@
+#Small p . serif  {
+    font-family: "Times New Roman", Times, serif;
+}
+#Small p{
+    font-size: 30px;
+}
+#Small p {
+    padding: 15px;
+    width: 300px;
+    background-color: lightblue
+}
+#Medium p . serif  {
+    font-family: "Times New Roman", Times, serif;
+}
+#Medium p{
+    font-size: 30px;
+}
+#Medium p {
+    padding: 15px;
+    width: 300px;
+    background-color: darkred;
+}
+#Large p . serif  {
+    font-family: "Times New Roman", Times, serif;
+}
+#Large p{
+    font-size: 30px;
+}
+#Large p {
+    padding: 15px;
+    width: 300px;
+    background-color: gray;
+}
+#Large p.round3 {
+    border: 2px solid gray;
+    border-radius: 20px;
+}
